@@ -16,6 +16,12 @@ The agent keeps a hierarchy of AGENTS.md files as the project changes:
 
 The result is simple: traverse the docs, understand the local rules, make precise edits, keep the docs current. Less guessing. Less drift. Less "why did it touch that file?"
 
+<p align="center">
+  <a href="https://youtu.be/NVkRkioBXQc">
+    <img src="./video-thumbnail.jpg" alt="Watch: One markdown file just fixed AI coding forever." width="640">
+  </a>
+</p>
+
 ## How to use
 
 1. Copy the contents of [AGENTS.md](./AGENTS.md) into your project's AGENTS.md file.
